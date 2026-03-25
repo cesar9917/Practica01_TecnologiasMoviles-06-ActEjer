@@ -8,30 +8,30 @@ Aplicación móvil desarrollada en Android Studio para registrar datos de estudi
 ## Actividad Inicial
 
 **Interfaz**  
-![Interfaz](images/Act%2001%20-%20JAVA.png)
+![Interfaz](images/Act01-JAVA.png)
 
 **Acción del botón**  
-![Acción del botón](images/Act%2002%20-%20JAVA.png)
+![Accion del boton](images/Act02-JAVA.png)
 
 ---
 
 ## Ejercicio 1 – Java
 
 **Interfaz**  
-![Interfaz](images/Prueba%2001%20-%20JAVA.png)
+![Interfaz](images/Prueba01-JAVA.png)
 
 **Validación de campos**  
-![Validación](images/Prueba%2002%20-%20JAVA.png)
+![Validacion de campos](images/Prueba02-JAVA.png)
 
 **Confirmación de registro**  
-![Confirmación](images/Prueba%2003%20-%20JAVA.png)
+![Confirmacion de registro](images/Prueba03-JAVA.png)
 
 ---
 
 ## Ejercicio 2 – Kotlin
 
 **Validación de campos**  
-![Validación](images/Prueba%2001%20-%20KT.png)
+![Validacion de campos](images/Prueba01-KT.png)
 
 **Confirmación de registro**  
-![Confirmación](images/Prueba%2002%20-%20KT.png)
+![Confirmacion de registro](images/Prueba02-KT.png)
