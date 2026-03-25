@@ -9,29 +9,29 @@ Actividad Inicial
 ![Interfaz](images/Act%2001%20-%20JAVA.png)
 
 **Acción del botón**
-![Botón](images/Act 02 - JAVA.png)
+![Interfaz](images/Act%2002%20-%20JAVA.png)
 
 ---
 
 ## Ejercicio 1 – Java
 
 **Interfaz**
-![Java1](images/Prueba 01-JAVA.png)
+![Interfaz](images/Prueba%2001%20-%20JAVA.png)
 
 **Validación de campos**
-![Java2](images/Prueba 02-JAVA.png)
+![Interfaz](images/Prueba%2021%20-%20JAVA.png)
 
 **Confirmación de registro**
-![Java3](images/Prueba 03-JAVA.png)
+![Interfaz](images/Prueba%2003%20-%20JAVA.png)
 
 ---
 
 ## Ejercicio 2 – Kotlin
 
 **Validación de campos**
-![Kotlin1](images/Prueba 01-KT.png)
+![Interfaz](images/Prueba%2001%20-%20KT.png)
 
 **Confirmación de registro**
-![Kotlin2](images/Prueba 02-KT.png)
+![Interfaz](images/Prueba%2002%20-%20KT.png)
 
 ---
