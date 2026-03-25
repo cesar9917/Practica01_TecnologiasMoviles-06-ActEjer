@@ -6,7 +6,7 @@ Aplicación móvil desarrollada en Android Studio para registrar datos de estudi
 Actividad Inicial
 
 **Interfaz**
-![Interfaz](images/Act 01 - JAVA.png)
+![Interfaz](images/Act%2001%20-%20JAVA.png)
 
 **Acción del botón**
 ![Botón](images/Act 02 - JAVA.png)
